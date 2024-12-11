@@ -1,0 +1,37 @@
+D:\Applications\Windows Forms\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.exe
+D:\Applications\Windows Forms\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.deps.json
+D:\Applications\Windows Forms\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.runtimeconfig.json
+D:\Applications\Windows Forms\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.dll
+D:\Applications\Windows Forms\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.pdb
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.Form1.resources
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.csproj.GenerateResource.cache
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.AssemblyInfoInputs.cache
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.AssemblyInfo.cs
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.csproj.CoreCompileInputs.cache
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.dll
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\refint\MetodaGauss.dll
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.pdb
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.genruntimeconfig.cache
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\ref\MetodaGauss.dll
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.Determinant.resources
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.Inversa.resources
+D:\Applications\Windows Forms\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.MainForm.resources
+C:\Users\Neko\Documents\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.exe
+C:\Users\Neko\Documents\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.deps.json
+C:\Users\Neko\Documents\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.runtimeconfig.json
+C:\Users\Neko\Documents\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.dll
+C:\Users\Neko\Documents\MetodaGauss\bin\Debug\net8.0-windows\MetodaGauss.pdb
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.Determinant.resources
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.Inversa.resources
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.MainForm.resources
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.csproj.GenerateResource.cache
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.AssemblyInfoInputs.cache
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.AssemblyInfo.cs
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.csproj.CoreCompileInputs.cache
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.dll
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\refint\MetodaGauss.dll
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.pdb
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\MetodaGauss.genruntimeconfig.cache
+C:\Users\Neko\Documents\MetodaGauss\obj\Debug\net8.0-windows\ref\MetodaGauss.dll
